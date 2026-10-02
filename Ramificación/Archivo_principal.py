@@ -6,3 +6,9 @@ def divir(a, b):
     return a / b
 
 print(divir(99,3))
+
+print("FUnciones para el backend")
+def mostrar():
+    print("Parte funcional del backend")
+
+mostrar()
