@@ -12,3 +12,8 @@ def despliegue():
     print("Parte funcional del frontend")
 
 despliegue()
+def mostrar():
+    print("Parte funcional del backend")
+
+mostrar()
+
