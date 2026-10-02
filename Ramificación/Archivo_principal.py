@@ -8,7 +8,12 @@ def divir(a, b):
 print(divir(99,3))
 
 print("FUnciones para el backend")
+def despliegue():
+    print("Parte funcional del frontend")
+
+despliegue()
 def mostrar():
     print("Parte funcional del backend")
 
 mostrar()
+
